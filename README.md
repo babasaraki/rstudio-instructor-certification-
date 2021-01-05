@@ -11,7 +11,7 @@ Learn how to create and plot graphics in R with ggplot2 package
 
 ## Concept map
 
-## Formative assessment 
+## Formative assessment 
 
 ## Lecture notes 
 
