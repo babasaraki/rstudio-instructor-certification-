@@ -1,8 +1,8 @@
 ---
-title: "Getting and setting dates and times with"
+title: "Graphics with ggplot2 in R" 
 subtitle: "RStudio Instructor Exam"  
-author: "Dr. Laurie Baker"
-institute: "@llbaker1707"
+author: "Dr. Umar Ahmad"
+institute: "@babasaraki1"
 date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
