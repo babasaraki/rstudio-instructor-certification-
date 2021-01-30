@@ -7,7 +7,9 @@ Learn how to create and plot graphics in R with ggplot2 package
 
 # Teaching exams outline 
 
-## Learner personas 
+## Learner personas
+![](/slides/images/learner_persona.png)
+<br>
 
 ## Concept map
 
